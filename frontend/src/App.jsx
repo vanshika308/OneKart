@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Registration from './assets/pages/RegistrationPage/Registation'
-import Login from './assets/pages/Login'
+import Login from './assets/pages/LoginPage/Login'
 import Home from './assets/pages/Home'
 
 function App() {
