@@ -4,7 +4,7 @@ export const authDataContext = createContext();
 
 function AuthContext({children}) {
 
-    let serverUrl = "http://localhost:5173";
+    let serverUrl = "http://localhost:5000";
 
    let value = {
      serverUrl
